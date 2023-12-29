@@ -9,7 +9,7 @@ I am opened for getting new knowledge in programming field.
 - JavaScript (Angular, TypeScript, jQuery)
 - PHP
 
-### Programming Languages I'm still in currently learning:
+### Programming Languages I'm currently learning:
 - Java (Spring)
 - C# (Xamarin, WPF)
 - C
