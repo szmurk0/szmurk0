@@ -19,9 +19,10 @@ I am opened for getting new knowledge in programming field.
 - Discord: howtopraisetheholypeanut
 
 ### My stats:
-![My Stats for this year:](https://github-readme-stats.vercel.app/api?username=szmurk0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![My stats this year: ](https://github-readme-stats.vercel.app/api?username=szmurk0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ![My most used languages this year: ](https://github-readme-stats.vercel.app/api/top-langs/?username=szmurk0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 
