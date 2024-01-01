@@ -4,16 +4,17 @@ I'm junior programmer, ready for challenges.
 I am opened for getting new knowledge in programming field.
 
 ### Programming Languages I learned:
-- C++ (Qt)
-- Python (Flask, Tkinter)
-- JavaScript (Angular, TypeScript, jQuery)
-- PHP
+- C++ 
+- Python 
+- JavaScript
+- Java
+
 
 ### Programming Languages I'm currently learning:
-- Java (Spring)
-- C# (Xamarin, WPF)
+- C#
 - C
 - Batch
+- PHP
 
 ### You can reach me on:
 - Discord: howtopraisetheholypeanut
